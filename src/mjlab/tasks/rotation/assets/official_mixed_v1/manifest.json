@@ -1,0 +1,1102 @@
+{
+  "version": 1,
+  "reset_semantics": "complete_qpos_zero_velocity_target_equals_pose",
+  "shape_probabilities": [
+    0.3333333333333333,
+    0.3333333333333333,
+    0.3333333333333333
+  ],
+  "banks": [
+    {
+      "file": "sphere_70.npz",
+      "shape": "sphere",
+      "scale": 0.7,
+      "ratio": 0.0,
+      "count": 43,
+      "sha256": "1fa3b3686eb91910de1ececfe7efdbfbe0ab01994c761573b0debe3598153aa9",
+      "sources": [
+        "data/l20_official_initial/sphere_70.npz"
+      ]
+    },
+    {
+      "file": "sphere_72.npz",
+      "shape": "sphere",
+      "scale": 0.72,
+      "ratio": 0.0,
+      "count": 42,
+      "sha256": "0cb89296d501232ea81e34f6e9b112af953504af381e63d85b6ff9804f532296",
+      "sources": [
+        "data/l20_official_initial/sphere_72.npz"
+      ]
+    },
+    {
+      "file": "sphere_74.npz",
+      "shape": "sphere",
+      "scale": 0.74,
+      "ratio": 0.0,
+      "count": 46,
+      "sha256": "dff4a76ed333cf2aff4b545db78edb69c68a5d98aeef5069296dd20751ab7351",
+      "sources": [
+        "data/l20_official_initial/sphere_74.npz"
+      ]
+    },
+    {
+      "file": "sphere_76.npz",
+      "shape": "sphere",
+      "scale": 0.76,
+      "ratio": 0.0,
+      "count": 49,
+      "sha256": "f6679368205274dd63d5d3aeed28c30b7cc633f00311e9d777137cf6d875e40a",
+      "sources": [
+        "data/l20_official_initial/sphere_76.npz"
+      ]
+    },
+    {
+      "file": "sphere_78.npz",
+      "shape": "sphere",
+      "scale": 0.78,
+      "ratio": 0.0,
+      "count": 34,
+      "sha256": "98ccb0815206e456d911ca62ffbfb9a8a343e5fced5cd324b2b06c3f64ff2cd9",
+      "sources": [
+        "data/l20_official_initial/sphere_78.npz"
+      ]
+    },
+    {
+      "file": "sphere_80.npz",
+      "shape": "sphere",
+      "scale": 0.8,
+      "ratio": 0.0,
+      "count": 22,
+      "sha256": "86a9dca25879d9ba15f90c56e0e9553ee72d6521a6157c8614b71d41a4a9ef4a",
+      "sources": [
+        "data/l20_official_initial/sphere_80.npz"
+      ]
+    },
+    {
+      "file": "sphere_82.npz",
+      "shape": "sphere",
+      "scale": 0.82,
+      "ratio": 0.0,
+      "count": 10,
+      "sha256": "e448bc298fe48744a54a47f88a001bcca463b07e0b5d51b990110ad18538b0f7",
+      "sources": [
+        "data/l20_official_initial/sphere_82.npz"
+      ]
+    },
+    {
+      "file": "sphere_84.npz",
+      "shape": "sphere",
+      "scale": 0.84,
+      "ratio": 0.0,
+      "count": 39,
+      "sha256": "1adc0c3c3e3e614b910c1f9cc3d57d2d43cdd21866bdad9f914d14081e999ca0",
+      "sources": [
+        "data/l20_official_initial/sphere_84.npz",
+        "data/l20_official_extended/sphere_84.npz"
+      ]
+    },
+    {
+      "file": "sphere_86.npz",
+      "shape": "sphere",
+      "scale": 0.86,
+      "ratio": 0.0,
+      "count": 33,
+      "sha256": "f1743fc86c04c37f9b41692674883362016c058de85e858c0cc8646bab5eadd6",
+      "sources": [
+        "data/l20_official_initial/sphere_86.npz",
+        "data/l20_official_extended/sphere_86.npz"
+      ]
+    },
+    {
+      "file": "cylinder_70_hd80.npz",
+      "shape": "cylinder",
+      "scale": 0.7,
+      "ratio": 0.8,
+      "count": 67,
+      "sha256": "b89445bdd964fbc7c22b99a6fb010348f45a8b553776cdcc219eed1d1d4bf180",
+      "sources": [
+        "data/l20_official_extended/cylinder_70_hd80.npz"
+      ]
+    },
+    {
+      "file": "cylinder_70_hd85.npz",
+      "shape": "cylinder",
+      "scale": 0.7,
+      "ratio": 0.85,
+      "count": 44,
+      "sha256": "dda7cfb0f1d5a252469393ae535106add94e359bdd72d6fd12ae05322d1a6131",
+      "sources": [
+        "data/l20_official_extended/cylinder_70_hd85.npz"
+      ]
+    },
+    {
+      "file": "cylinder_70_hd90.npz",
+      "shape": "cylinder",
+      "scale": 0.7,
+      "ratio": 0.9,
+      "count": 57,
+      "sha256": "28825f81653a944000092d688046793ed038e4eceae7f5f46395b8f9637350c9",
+      "sources": [
+        "data/l20_official_extended/cylinder_70_hd90.npz"
+      ]
+    },
+    {
+      "file": "cylinder_70_hd95.npz",
+      "shape": "cylinder",
+      "scale": 0.7,
+      "ratio": 0.95,
+      "count": 52,
+      "sha256": "4ce91d039bccb3dd6c520c2b21d5c6dc53979eaa9b33ac1b41761b0bb9f774e8",
+      "sources": [
+        "data/l20_official_extended/cylinder_70_hd95.npz"
+      ]
+    },
+    {
+      "file": "cylinder_70_hd100.npz",
+      "shape": "cylinder",
+      "scale": 0.7,
+      "ratio": 1.0,
+      "count": 46,
+      "sha256": "3d7b95acabfd58e7e318d1ddbe5f6d12283bac460b8288830da3b6d160a31f45",
+      "sources": [
+        "data/l20_official_extended/cylinder_70_hd100.npz"
+      ]
+    },
+    {
+      "file": "cylinder_70_hd105.npz",
+      "shape": "cylinder",
+      "scale": 0.7,
+      "ratio": 1.05,
+      "count": 21,
+      "sha256": "fd317ee91827011bbd74787353f02cf01fe9dfa4e995d092b4711d320ff32339",
+      "sources": [
+        "data/l20_official_extended/cylinder_70_hd105.npz"
+      ]
+    },
+    {
+      "file": "cylinder_70_hd110.npz",
+      "shape": "cylinder",
+      "scale": 0.7,
+      "ratio": 1.1,
+      "count": 2,
+      "sha256": "06d4b3c105567a06258a0d556e8a59fb44fa0de719440550704efd289fd9ecdd",
+      "sources": [
+        "data/l20_official_extended/cylinder_70_hd110.npz"
+      ]
+    },
+    {
+      "file": "cylinder_70_hd115.npz",
+      "shape": "cylinder",
+      "scale": 0.7,
+      "ratio": 1.15,
+      "count": 71,
+      "sha256": "f1d5747a9135f51f310a0bcc21faa8725f11389b58cd39e220805085b48efc26",
+      "sources": [
+        "data/l20_official_extended/cylinder_70_hd115.npz"
+      ]
+    },
+    {
+      "file": "cylinder_70_hd120.npz",
+      "shape": "cylinder",
+      "scale": 0.7,
+      "ratio": 1.2,
+      "count": 35,
+      "sha256": "bf052ee1265858a3f4b84f21ac505a218d4974f6879c17b0418e2db64aa949e7",
+      "sources": [
+        "data/l20_official_extended/cylinder_70_hd120.npz"
+      ]
+    },
+    {
+      "file": "cylinder_72_hd80.npz",
+      "shape": "cylinder",
+      "scale": 0.72,
+      "ratio": 0.8,
+      "count": 40,
+      "sha256": "7ec0815fc4864e789821fafdf01eb75119ac21c65d700a8bbcc610aaeed921dd",
+      "sources": [
+        "data/l20_official_extended/cylinder_72_hd80.npz"
+      ]
+    },
+    {
+      "file": "cylinder_72_hd85.npz",
+      "shape": "cylinder",
+      "scale": 0.72,
+      "ratio": 0.85,
+      "count": 29,
+      "sha256": "bf6badc612042f3fb8a08b509d130ab8630a7a21e885e9a49a3131948ecf0303",
+      "sources": [
+        "data/l20_official_extended/cylinder_72_hd85.npz"
+      ]
+    },
+    {
+      "file": "cylinder_72_hd90.npz",
+      "shape": "cylinder",
+      "scale": 0.72,
+      "ratio": 0.9,
+      "count": 21,
+      "sha256": "bf6ad846f0be82787709d7a59505daf4323ac55919967576d1c43bedad02e2fa",
+      "sources": [
+        "data/l20_official_extended/cylinder_72_hd90.npz"
+      ]
+    },
+    {
+      "file": "cylinder_72_hd95.npz",
+      "shape": "cylinder",
+      "scale": 0.72,
+      "ratio": 0.95,
+      "count": 36,
+      "sha256": "4b10403e73571a0ad5a87aa66d3ced4df22852032aa044a44adf311425459d72",
+      "sources": [
+        "data/l20_official_extended/cylinder_72_hd95.npz"
+      ]
+    },
+    {
+      "file": "cylinder_72_hd100.npz",
+      "shape": "cylinder",
+      "scale": 0.72,
+      "ratio": 1.0,
+      "count": 48,
+      "sha256": "d11e386db776010073bdbcf6d2d0bde7c8cdd8e064bbf1adaef144ac6c767702",
+      "sources": [
+        "data/l20_official_extended/cylinder_72_hd100.npz"
+      ]
+    },
+    {
+      "file": "cylinder_72_hd105.npz",
+      "shape": "cylinder",
+      "scale": 0.72,
+      "ratio": 1.05,
+      "count": 44,
+      "sha256": "ec9b357513ad581316a379776cbe68b916100d30a00c24d1494b0d5bf5898cc8",
+      "sources": [
+        "data/l20_official_extended/cylinder_72_hd105.npz"
+      ]
+    },
+    {
+      "file": "cylinder_72_hd110.npz",
+      "shape": "cylinder",
+      "scale": 0.72,
+      "ratio": 1.1,
+      "count": 64,
+      "sha256": "ef4122eca324f6c5271d37d1601fd697f55fb8e9488dc103dc893f7f5d328630",
+      "sources": [
+        "data/l20_official_extended/cylinder_72_hd110.npz"
+      ]
+    },
+    {
+      "file": "cylinder_72_hd115.npz",
+      "shape": "cylinder",
+      "scale": 0.72,
+      "ratio": 1.15,
+      "count": 69,
+      "sha256": "997562ce5494173504f713745bf01ce9407d8ec3f18f8fe78c9097a18630e2f1",
+      "sources": [
+        "data/l20_official_extended/cylinder_72_hd115.npz"
+      ]
+    },
+    {
+      "file": "cylinder_72_hd120.npz",
+      "shape": "cylinder",
+      "scale": 0.72,
+      "ratio": 1.2,
+      "count": 55,
+      "sha256": "6055d723aac63cf510c8abadba07c039e1eba88553eacca20a74852522940974",
+      "sources": [
+        "data/l20_official_extended/cylinder_72_hd120.npz"
+      ]
+    },
+    {
+      "file": "cylinder_74_hd80.npz",
+      "shape": "cylinder",
+      "scale": 0.74,
+      "ratio": 0.8,
+      "count": 44,
+      "sha256": "83d4a0e0449ff67cb683ea13f3576b7ea8afc5099048bbd508bedbf54ef2492f",
+      "sources": [
+        "data/l20_official_extended/cylinder_74_hd80.npz"
+      ]
+    },
+    {
+      "file": "cylinder_74_hd85.npz",
+      "shape": "cylinder",
+      "scale": 0.74,
+      "ratio": 0.85,
+      "count": 73,
+      "sha256": "2b6b341d9e87af76541edd944dd55094b96033c39f8ecd69794debd2f7ea1d79",
+      "sources": [
+        "data/l20_official_extended/cylinder_74_hd85.npz"
+      ]
+    },
+    {
+      "file": "cylinder_74_hd90.npz",
+      "shape": "cylinder",
+      "scale": 0.74,
+      "ratio": 0.9,
+      "count": 23,
+      "sha256": "343633a31642be0b195e6de8016acb424f7f88ddfbdb8dda424a833416f9fd64",
+      "sources": [
+        "data/l20_official_extended/cylinder_74_hd90.npz"
+      ]
+    },
+    {
+      "file": "cylinder_74_hd95.npz",
+      "shape": "cylinder",
+      "scale": 0.74,
+      "ratio": 0.95,
+      "count": 31,
+      "sha256": "104acb24f2354e70e361b160131b9f8a747fe73a7dda7ad860d1c53e8f5c90f1",
+      "sources": [
+        "data/l20_official_extended/cylinder_74_hd95.npz"
+      ]
+    },
+    {
+      "file": "cylinder_74_hd100.npz",
+      "shape": "cylinder",
+      "scale": 0.74,
+      "ratio": 1.0,
+      "count": 50,
+      "sha256": "a4d043bb2ef452098c91de10d9a1849b62894c088c4c872b12efc46cafba305f",
+      "sources": [
+        "data/l20_official_extended/cylinder_74_hd100.npz"
+      ]
+    },
+    {
+      "file": "cylinder_74_hd105.npz",
+      "shape": "cylinder",
+      "scale": 0.74,
+      "ratio": 1.05,
+      "count": 69,
+      "sha256": "afc4689def471fe699c64efa2efe06be6a681ec32c7c6d97d38e4cb508fd3f91",
+      "sources": [
+        "data/l20_official_extended/cylinder_74_hd105.npz"
+      ]
+    },
+    {
+      "file": "cylinder_74_hd110.npz",
+      "shape": "cylinder",
+      "scale": 0.74,
+      "ratio": 1.1,
+      "count": 62,
+      "sha256": "87a1ef281effd7b72f64371d6cbaa6b03d61c763ca2571492edb743bf64d47fd",
+      "sources": [
+        "data/l20_official_extended/cylinder_74_hd110.npz"
+      ]
+    },
+    {
+      "file": "cylinder_74_hd115.npz",
+      "shape": "cylinder",
+      "scale": 0.74,
+      "ratio": 1.15,
+      "count": 56,
+      "sha256": "55a8fcb21cd2dff4cc647bcce54aa7a87d248b268a56b8ee1f158b0a944ce470",
+      "sources": [
+        "data/l20_official_extended/cylinder_74_hd115.npz"
+      ]
+    },
+    {
+      "file": "cylinder_74_hd120.npz",
+      "shape": "cylinder",
+      "scale": 0.74,
+      "ratio": 1.2,
+      "count": 45,
+      "sha256": "2fbce63d92c7db2e3fab4b3a7996729ee07f17557a5ee5d1aea037d76648831d",
+      "sources": [
+        "data/l20_official_extended/cylinder_74_hd120.npz"
+      ]
+    },
+    {
+      "file": "cylinder_76_hd80.npz",
+      "shape": "cylinder",
+      "scale": 0.76,
+      "ratio": 0.8,
+      "count": 20,
+      "sha256": "8f86578920227914cf491563968b9b7a92cbbbe9c992405bcd0f90997f80e6bf",
+      "sources": [
+        "data/l20_official_extended/cylinder_76_hd80.npz"
+      ]
+    },
+    {
+      "file": "cylinder_76_hd85.npz",
+      "shape": "cylinder",
+      "scale": 0.76,
+      "ratio": 0.85,
+      "count": 49,
+      "sha256": "73b58e607270ed70c8808c4682d4ee97c7077bd2ce614f981c0fc471f517e84d",
+      "sources": [
+        "data/l20_official_extended/cylinder_76_hd85.npz"
+      ]
+    },
+    {
+      "file": "cylinder_76_hd90.npz",
+      "shape": "cylinder",
+      "scale": 0.76,
+      "ratio": 0.9,
+      "count": 33,
+      "sha256": "e946498b55709cd7e296fa249e28632b243d19008b4632d854e77cc00434f6d3",
+      "sources": [
+        "data/l20_official_extended/cylinder_76_hd90.npz"
+      ]
+    },
+    {
+      "file": "cylinder_76_hd95.npz",
+      "shape": "cylinder",
+      "scale": 0.76,
+      "ratio": 0.95,
+      "count": 26,
+      "sha256": "28affacece68cf4ae3329ae511198fdd33f9b3630e84df7ba05e8fcde66b7ac7",
+      "sources": [
+        "data/l20_official_extended/cylinder_76_hd95.npz"
+      ]
+    },
+    {
+      "file": "cylinder_76_hd100.npz",
+      "shape": "cylinder",
+      "scale": 0.76,
+      "ratio": 1.0,
+      "count": 21,
+      "sha256": "976b1c3d10f739dd6b8b4b79273a9eb5687968e7e9decdc66e70f740862c923d",
+      "sources": [
+        "data/l20_official_extended/cylinder_76_hd100.npz"
+      ]
+    },
+    {
+      "file": "cylinder_76_hd105.npz",
+      "shape": "cylinder",
+      "scale": 0.76,
+      "ratio": 1.05,
+      "count": 69,
+      "sha256": "f1e236f4718299a1e23172bed7077df6cae55ec9fc8fafcd606a7ca78a5b6202",
+      "sources": [
+        "data/l20_official_extended/cylinder_76_hd105.npz"
+      ]
+    },
+    {
+      "file": "cylinder_76_hd110.npz",
+      "shape": "cylinder",
+      "scale": 0.76,
+      "ratio": 1.1,
+      "count": 67,
+      "sha256": "d61b27b0be2db0f86a8c1a7d057c485c731bf739f4098bbf7adbaf74c9f6203a",
+      "sources": [
+        "data/l20_official_extended/cylinder_76_hd110.npz"
+      ]
+    },
+    {
+      "file": "cylinder_76_hd115.npz",
+      "shape": "cylinder",
+      "scale": 0.76,
+      "ratio": 1.15,
+      "count": 56,
+      "sha256": "4fb5489de14ee3957e9c10f2b60a2d49c8cb7b2644f25be2305531eacdeeea60",
+      "sources": [
+        "data/l20_official_extended/cylinder_76_hd115.npz"
+      ]
+    },
+    {
+      "file": "cylinder_76_hd120.npz",
+      "shape": "cylinder",
+      "scale": 0.76,
+      "ratio": 1.2,
+      "count": 96,
+      "sha256": "f7b5f2d5eda8f846c2cc6de43ea63d56f04f475f62b96e2eacf772bed828ec38",
+      "sources": [
+        "data/l20_official_extended/cylinder_76_hd120.npz"
+      ]
+    },
+    {
+      "file": "cylinder_78_hd80.npz",
+      "shape": "cylinder",
+      "scale": 0.78,
+      "ratio": 0.8,
+      "count": 55,
+      "sha256": "e53b0baa8f2658f48aa43ff737a19f3e09d4f0cbdf9bd082463fe74a3c54f152",
+      "sources": [
+        "data/l20_official_extended/cylinder_78_hd80.npz"
+      ]
+    },
+    {
+      "file": "cylinder_78_hd85.npz",
+      "shape": "cylinder",
+      "scale": 0.78,
+      "ratio": 0.85,
+      "count": 21,
+      "sha256": "0602d5ea0a8148244049c79d20eb5e5d0696614a99371ff71085c2d79454f90e",
+      "sources": [
+        "data/l20_official_extended/cylinder_78_hd85.npz"
+      ]
+    },
+    {
+      "file": "cylinder_78_hd90.npz",
+      "shape": "cylinder",
+      "scale": 0.78,
+      "ratio": 0.9,
+      "count": 6,
+      "sha256": "8dc52f52aa6e0942f7a69c72102b7b7ba09ff9901fa8a9817ecbd395d118cc31",
+      "sources": [
+        "data/l20_official_extended/cylinder_78_hd90.npz"
+      ]
+    },
+    {
+      "file": "cylinder_78_hd95.npz",
+      "shape": "cylinder",
+      "scale": 0.78,
+      "ratio": 0.95,
+      "count": 68,
+      "sha256": "6974219bc6d2509e87f01cf5b9b452450338994c96695856d8a4d7691e2c5e42",
+      "sources": [
+        "data/l20_official_extended/cylinder_78_hd95.npz"
+      ]
+    },
+    {
+      "file": "cylinder_78_hd100.npz",
+      "shape": "cylinder",
+      "scale": 0.78,
+      "ratio": 1.0,
+      "count": 79,
+      "sha256": "cd19467eb571c2ef52d851a098c05a6771249c196e602179fd09ff0fa351b23b",
+      "sources": [
+        "data/l20_official_extended/cylinder_78_hd100.npz"
+      ]
+    },
+    {
+      "file": "cylinder_78_hd105.npz",
+      "shape": "cylinder",
+      "scale": 0.78,
+      "ratio": 1.05,
+      "count": 13,
+      "sha256": "43ab3695a0330c0ecbd727a9b18d517f2d106034d1758a156aa1a1ebf83715c7",
+      "sources": [
+        "data/l20_official_extended/cylinder_78_hd105.npz"
+      ]
+    },
+    {
+      "file": "cylinder_78_hd110.npz",
+      "shape": "cylinder",
+      "scale": 0.78,
+      "ratio": 1.1,
+      "count": 47,
+      "sha256": "1217ac62c8e819252a0a4a7794cf42be65edb5c884bd2414870457893a0c5e6e",
+      "sources": [
+        "data/l20_official_extended/cylinder_78_hd110.npz"
+      ]
+    },
+    {
+      "file": "cylinder_78_hd115.npz",
+      "shape": "cylinder",
+      "scale": 0.78,
+      "ratio": 1.15,
+      "count": 46,
+      "sha256": "ea1c46ebd62370a6f6a1fdfd80a50803cb176253df75b834711e9e9143c06d39",
+      "sources": [
+        "data/l20_official_extended/cylinder_78_hd115.npz"
+      ]
+    },
+    {
+      "file": "cylinder_78_hd120.npz",
+      "shape": "cylinder",
+      "scale": 0.78,
+      "ratio": 1.2,
+      "count": 47,
+      "sha256": "ba18768515806359fe630c34aabd305a8c24f99a9fe95e5f9df8028df23e56b4",
+      "sources": [
+        "data/l20_official_extended/cylinder_78_hd120.npz"
+      ]
+    },
+    {
+      "file": "cylinder_80_hd80.npz",
+      "shape": "cylinder",
+      "scale": 0.8,
+      "ratio": 0.8,
+      "count": 43,
+      "sha256": "aa90f9aafcb612970994cf70546d14a36a7812b91ac5fb92fd61f448b5657d72",
+      "sources": [
+        "data/l20_official_extended/cylinder_80_hd80.npz"
+      ]
+    },
+    {
+      "file": "cylinder_80_hd85.npz",
+      "shape": "cylinder",
+      "scale": 0.8,
+      "ratio": 0.85,
+      "count": 43,
+      "sha256": "358fc20382777ba35521ce1db35853ca6592c360ae0499049c34d535035234f2",
+      "sources": [
+        "data/l20_official_extended/cylinder_80_hd85.npz"
+      ]
+    },
+    {
+      "file": "cylinder_80_hd90.npz",
+      "shape": "cylinder",
+      "scale": 0.8,
+      "ratio": 0.9,
+      "count": 49,
+      "sha256": "d5dd5f0aa8305fe2dbde83a8bc46fa754577e2323136ab10b52fd418c04cc41f",
+      "sources": [
+        "data/l20_official_extended/cylinder_80_hd90.npz"
+      ]
+    },
+    {
+      "file": "cylinder_80_hd95.npz",
+      "shape": "cylinder",
+      "scale": 0.8,
+      "ratio": 0.95,
+      "count": 24,
+      "sha256": "697021abddaead2db2ec5c89eefdef550f379ce0441b273ec2c510957e53f56b",
+      "sources": [
+        "data/l20_official_extended/cylinder_80_hd95.npz"
+      ]
+    },
+    {
+      "file": "cylinder_80_hd100.npz",
+      "shape": "cylinder",
+      "scale": 0.8,
+      "ratio": 1.0,
+      "count": 110,
+      "sha256": "5dabac4ed422088b6e8dff041538d7878e195497fada6422e6fb302b65d6efa8",
+      "sources": [
+        "data/l20_official_extended/cylinder_80_hd100.npz"
+      ]
+    },
+    {
+      "file": "cylinder_80_hd105.npz",
+      "shape": "cylinder",
+      "scale": 0.8,
+      "ratio": 1.05,
+      "count": 11,
+      "sha256": "3f62b95c5a40d2d359b1753678db3c5c1b177df64097ccfadc4cff8a510654cc",
+      "sources": [
+        "data/l20_official_extended/cylinder_80_hd105.npz"
+      ]
+    },
+    {
+      "file": "cylinder_80_hd110.npz",
+      "shape": "cylinder",
+      "scale": 0.8,
+      "ratio": 1.1,
+      "count": 57,
+      "sha256": "de0666fb33ea2bf8ac37b02cf9a8d087add7e33801e5088b02711ff2c9a98d22",
+      "sources": [
+        "data/l20_official_extended/cylinder_80_hd110.npz"
+      ]
+    },
+    {
+      "file": "cylinder_80_hd115.npz",
+      "shape": "cylinder",
+      "scale": 0.8,
+      "ratio": 1.15,
+      "count": 55,
+      "sha256": "5697ae76a23d70c046c1257fa569e703cf7bbdd45ec5d1975850c997b6c7b1b4",
+      "sources": [
+        "data/l20_official_extended/cylinder_80_hd115.npz"
+      ]
+    },
+    {
+      "file": "cylinder_80_hd120.npz",
+      "shape": "cylinder",
+      "scale": 0.8,
+      "ratio": 1.2,
+      "count": 58,
+      "sha256": "265c407b889f76a7e099a9b001d1488aa4917ddc21d8c731da0cb2b1cd8addd7",
+      "sources": [
+        "data/l20_official_extended/cylinder_80_hd120.npz"
+      ]
+    },
+    {
+      "file": "cylinder_82_hd80.npz",
+      "shape": "cylinder",
+      "scale": 0.82,
+      "ratio": 0.8,
+      "count": 9,
+      "sha256": "6b17124ac8d1d24d78f31a2e8dd2c243ee4e089730646d22d3222ca527fc4e21",
+      "sources": [
+        "data/l20_official_extended/cylinder_82_hd80.npz"
+      ]
+    },
+    {
+      "file": "cylinder_82_hd85.npz",
+      "shape": "cylinder",
+      "scale": 0.82,
+      "ratio": 0.85,
+      "count": 26,
+      "sha256": "cdef845214c3c7919abc56ed848eb3794ddded9f00d5b2d9620c5a33b8bfecd0",
+      "sources": [
+        "data/l20_official_extended/cylinder_82_hd85.npz"
+      ]
+    },
+    {
+      "file": "cylinder_82_hd90.npz",
+      "shape": "cylinder",
+      "scale": 0.82,
+      "ratio": 0.9,
+      "count": 124,
+      "sha256": "221e07799f0cc50af9f041ddffb29dc5e7a8eef2ca4f81dacba2dcb2b97622ad",
+      "sources": [
+        "data/l20_official_extended/cylinder_82_hd90.npz"
+      ]
+    },
+    {
+      "file": "cylinder_82_hd95.npz",
+      "shape": "cylinder",
+      "scale": 0.82,
+      "ratio": 0.95,
+      "count": 47,
+      "sha256": "befa15b5db26f4c997b58ba49b4e8cde9ded2949fe0d07dff28a164f0061c9bc",
+      "sources": [
+        "data/l20_official_extended/cylinder_82_hd95.npz"
+      ]
+    },
+    {
+      "file": "cylinder_82_hd100.npz",
+      "shape": "cylinder",
+      "scale": 0.82,
+      "ratio": 1.0,
+      "count": 60,
+      "sha256": "e571ff4c161e8e3d21cc27d1a9de83a62acbf6abdda2a29a39ea316f11df47df",
+      "sources": [
+        "data/l20_official_extended/cylinder_82_hd100.npz"
+      ]
+    },
+    {
+      "file": "cylinder_82_hd105.npz",
+      "shape": "cylinder",
+      "scale": 0.82,
+      "ratio": 1.05,
+      "count": 68,
+      "sha256": "d66935c18bda282225c2c7f7218929b31b289ec38f5255e7eca5b8ef7d951e39",
+      "sources": [
+        "data/l20_official_extended/cylinder_82_hd105.npz"
+      ]
+    },
+    {
+      "file": "cylinder_82_hd110.npz",
+      "shape": "cylinder",
+      "scale": 0.82,
+      "ratio": 1.1,
+      "count": 39,
+      "sha256": "4b21f0367ad92ecfd5e53c2dcd3d76754bef760be482b1efc61f4430492aa8ab",
+      "sources": [
+        "data/l20_official_extended/cylinder_82_hd110.npz"
+      ]
+    },
+    {
+      "file": "cylinder_82_hd115.npz",
+      "shape": "cylinder",
+      "scale": 0.82,
+      "ratio": 1.15,
+      "count": 71,
+      "sha256": "23113936c30c0811ddf3545f77dcc6ba936708e87a5a8f5ee8a5a58dc2acccbc",
+      "sources": [
+        "data/l20_official_extended/cylinder_82_hd115.npz"
+      ]
+    },
+    {
+      "file": "cylinder_82_hd120.npz",
+      "shape": "cylinder",
+      "scale": 0.82,
+      "ratio": 1.2,
+      "count": 43,
+      "sha256": "dc85f72b583985e7e257ff45afba82d58724629fe11f5bf13504d2200f2e2937",
+      "sources": [
+        "data/l20_official_extended/cylinder_82_hd120.npz"
+      ]
+    },
+    {
+      "file": "cylinder_84_hd80.npz",
+      "shape": "cylinder",
+      "scale": 0.84,
+      "ratio": 0.8,
+      "count": 21,
+      "sha256": "9a968ec5482c510183007d988954bf987455d61e5b55dc47cc3e82e00953956d",
+      "sources": [
+        "data/l20_official_extended/cylinder_84_hd80.npz"
+      ]
+    },
+    {
+      "file": "cylinder_84_hd85.npz",
+      "shape": "cylinder",
+      "scale": 0.84,
+      "ratio": 0.85,
+      "count": 61,
+      "sha256": "0246838cb5fec7463000ddfb6a480dc72478e371b62fe9891c1e19571f3fe29a",
+      "sources": [
+        "data/l20_official_extended/cylinder_84_hd85.npz"
+      ]
+    },
+    {
+      "file": "cylinder_84_hd90.npz",
+      "shape": "cylinder",
+      "scale": 0.84,
+      "ratio": 0.9,
+      "count": 57,
+      "sha256": "95ffba45f3edaeb774ca4230481b43bf92f7c29120a63b0c762250fe9963c5d3",
+      "sources": [
+        "data/l20_official_extended/cylinder_84_hd90.npz"
+      ]
+    },
+    {
+      "file": "cylinder_84_hd95.npz",
+      "shape": "cylinder",
+      "scale": 0.84,
+      "ratio": 0.95,
+      "count": 57,
+      "sha256": "fd8d5d249d4a8837a1cbe48ffb1a8387aa5975057f7aadbdb30ee81de6d9d081",
+      "sources": [
+        "data/l20_official_extended/cylinder_84_hd95.npz"
+      ]
+    },
+    {
+      "file": "cylinder_84_hd100.npz",
+      "shape": "cylinder",
+      "scale": 0.84,
+      "ratio": 1.0,
+      "count": 46,
+      "sha256": "63ef5d70af5ef9a4a4b5ef8438fb256882b3cf71326492f2b863fc9a51d16268",
+      "sources": [
+        "data/l20_official_extended/cylinder_84_hd100.npz"
+      ]
+    },
+    {
+      "file": "cylinder_84_hd105.npz",
+      "shape": "cylinder",
+      "scale": 0.84,
+      "ratio": 1.05,
+      "count": 30,
+      "sha256": "ece6ab195e43885634f9083dd3df7a57d20a628e773851bc5c35a602eac6325b",
+      "sources": [
+        "data/l20_official_extended/cylinder_84_hd105.npz"
+      ]
+    },
+    {
+      "file": "cylinder_84_hd110.npz",
+      "shape": "cylinder",
+      "scale": 0.84,
+      "ratio": 1.1,
+      "count": 16,
+      "sha256": "26801a300f86c30658cb268b6f1ae0ef82ed58018cdf6e36122234fcbf520961",
+      "sources": [
+        "data/l20_official_extended/cylinder_84_hd110.npz"
+      ]
+    },
+    {
+      "file": "cylinder_84_hd115.npz",
+      "shape": "cylinder",
+      "scale": 0.84,
+      "ratio": 1.15,
+      "count": 61,
+      "sha256": "8825ca25fdef02bc3580bff7aa01d087924a9a44b03e9b4dd786892fcff942c4",
+      "sources": [
+        "data/l20_official_extended/cylinder_84_hd115.npz"
+      ]
+    },
+    {
+      "file": "cylinder_84_hd120.npz",
+      "shape": "cylinder",
+      "scale": 0.84,
+      "ratio": 1.2,
+      "count": 101,
+      "sha256": "d85a4941270b186b42db66b8c863a434e1d56f676540d174e7f59b66de94a9f1",
+      "sources": [
+        "data/l20_official_extended/cylinder_84_hd120.npz"
+      ]
+    },
+    {
+      "file": "cylinder_86_hd80.npz",
+      "shape": "cylinder",
+      "scale": 0.86,
+      "ratio": 0.8,
+      "count": 40,
+      "sha256": "9c42d8df0bb60f1af3a48202853005c654c421ce0861aa880d3e914eb7f493e6",
+      "sources": [
+        "data/l20_official_extended/cylinder_86_hd80.npz"
+      ]
+    },
+    {
+      "file": "cylinder_86_hd85.npz",
+      "shape": "cylinder",
+      "scale": 0.86,
+      "ratio": 0.85,
+      "count": 37,
+      "sha256": "5d6383612bb678429d2dcfd060251aadb41cd176a11fdf08f9d45f80e78dfd73",
+      "sources": [
+        "data/l20_official_extended/cylinder_86_hd85.npz"
+      ]
+    },
+    {
+      "file": "cylinder_86_hd90.npz",
+      "shape": "cylinder",
+      "scale": 0.86,
+      "ratio": 0.9,
+      "count": 11,
+      "sha256": "998dadf6db67d9f2dfeaa1015116d43a3ef0d682b9947cc036651b5fda67f9ce",
+      "sources": [
+        "data/l20_official_extended/cylinder_86_hd90.npz"
+      ]
+    },
+    {
+      "file": "cylinder_86_hd95.npz",
+      "shape": "cylinder",
+      "scale": 0.86,
+      "ratio": 0.95,
+      "count": 38,
+      "sha256": "332c3384081f4b7d63b3ec4577e69988ae825d78661c9e40fa106745b9c6522d",
+      "sources": [
+        "data/l20_official_extended/cylinder_86_hd95.npz"
+      ]
+    },
+    {
+      "file": "cylinder_86_hd100.npz",
+      "shape": "cylinder",
+      "scale": 0.86,
+      "ratio": 1.0,
+      "count": 75,
+      "sha256": "35eb083905bba5c2c6bcfb3cb8eb42c933e3dd062df587c8d56888c79c813405",
+      "sources": [
+        "data/l20_official_extended/cylinder_86_hd100.npz"
+      ]
+    },
+    {
+      "file": "cylinder_86_hd105.npz",
+      "shape": "cylinder",
+      "scale": 0.86,
+      "ratio": 1.05,
+      "count": 28,
+      "sha256": "f2c32561a59345ba3602e996271397fad8ecf3475024c8ab209da7268c39a974",
+      "sources": [
+        "data/l20_official_extended/cylinder_86_hd105.npz"
+      ]
+    },
+    {
+      "file": "cylinder_86_hd110.npz",
+      "shape": "cylinder",
+      "scale": 0.86,
+      "ratio": 1.1,
+      "count": 20,
+      "sha256": "6a25866b4ea3d08ec2399824d2d2764628c914f4c14233f0e6e6b8e3785635a7",
+      "sources": [
+        "data/l20_official_extended/cylinder_86_hd110.npz"
+      ]
+    },
+    {
+      "file": "cylinder_86_hd115.npz",
+      "shape": "cylinder",
+      "scale": 0.86,
+      "ratio": 1.15,
+      "count": 66,
+      "sha256": "eb3993527feaf42057b2a8ab2209eedd8b585eec1af1d12cd36f3fc6ce7ecbf2",
+      "sources": [
+        "data/l20_official_extended/cylinder_86_hd115.npz"
+      ]
+    },
+    {
+      "file": "cylinder_86_hd120.npz",
+      "shape": "cylinder",
+      "scale": 0.86,
+      "ratio": 1.2,
+      "count": 22,
+      "sha256": "cc5de488903132c41509f8f636aeedfa812fe53a210456667ef6ba80add2d2ad",
+      "sources": [
+        "data/l20_official_extended/cylinder_86_hd120.npz"
+      ]
+    },
+    {
+      "file": "box_70.npz",
+      "shape": "box",
+      "scale": 0.7,
+      "ratio": 0.0,
+      "count": 45,
+      "sha256": "31973cd6aec0591dd5d629aa3b22b057c14c7b8a3dad4d977adfee4178d5fe5c",
+      "sources": [
+        "data/l20_official_extended/box_70.npz"
+      ]
+    },
+    {
+      "file": "box_72.npz",
+      "shape": "box",
+      "scale": 0.72,
+      "ratio": 0.0,
+      "count": 96,
+      "sha256": "70adaa808c8e277819730967aa56a5b618c9d7e41dabe0bc0804bcb12f9c21a0",
+      "sources": [
+        "data/l20_official_extended/box_72.npz"
+      ]
+    },
+    {
+      "file": "box_74.npz",
+      "shape": "box",
+      "scale": 0.74,
+      "ratio": 0.0,
+      "count": 15,
+      "sha256": "3156c124e817b6e1744ad1f5dd3b34d2363f10d35350488ce21a4b19f8786d30",
+      "sources": [
+        "data/l20_official_extended/box_74.npz"
+      ]
+    },
+    {
+      "file": "box_76.npz",
+      "shape": "box",
+      "scale": 0.76,
+      "ratio": 0.0,
+      "count": 26,
+      "sha256": "cc08074b4abc666e66f4aeb4440bf1093fc7a036f4a70f822c59a6ef0f4808e1",
+      "sources": [
+        "data/l20_official_extended/box_76.npz"
+      ]
+    },
+    {
+      "file": "box_78.npz",
+      "shape": "box",
+      "scale": 0.78,
+      "ratio": 0.0,
+      "count": 32,
+      "sha256": "cda44ef88ba783ede9ec2f37d1bf63dadb5d01b7426f5049a0d098a6f61e1098",
+      "sources": [
+        "data/l20_official_extended/box_78.npz"
+      ]
+    },
+    {
+      "file": "box_80.npz",
+      "shape": "box",
+      "scale": 0.8,
+      "ratio": 0.0,
+      "count": 66,
+      "sha256": "092214f6f94caa33759ed3f37a4e616a26de85139e9bb36b0b66659a5395ab51",
+      "sources": [
+        "data/l20_official_extended/box_80.npz"
+      ]
+    },
+    {
+      "file": "box_82.npz",
+      "shape": "box",
+      "scale": 0.82,
+      "ratio": 0.0,
+      "count": 50,
+      "sha256": "1df5e4d24abe6fdc9e15027ed737575bfcaed3d6231106cd3f3665d447eb087d",
+      "sources": [
+        "data/l20_official_extended/box_82.npz"
+      ]
+    },
+    {
+      "file": "box_84.npz",
+      "shape": "box",
+      "scale": 0.84,
+      "ratio": 0.0,
+      "count": 40,
+      "sha256": "a4e89dcac6a555b93e1a426aaa8b3c8390b4038c93ac2f107455f7103b79b5bb",
+      "sources": [
+        "data/l20_official_extended/box_84.npz"
+      ]
+    },
+    {
+      "file": "box_86.npz",
+      "shape": "box",
+      "scale": 0.86,
+      "ratio": 0.0,
+      "count": 67,
+      "sha256": "3f7a64134350ae912be29214213564802fd8e3d45e276e6ab77bce7a89cbbe97",
+      "sources": [
+        "data/l20_official_extended/box_86.npz"
+      ]
+    }
+  ]
+}
